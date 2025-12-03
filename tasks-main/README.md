@@ -35,20 +35,8 @@ Each folder represents a separate task, including:
 - SQL Server
 - Git & GitHub
 
-## 🧪 How to Use
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/alkahlawy/tasks.git
-   ```
-
-2. **Open any task folder** in Visual Studio.
-
-3. **Build & run the project** using the IDE or terminal.
-
-> Ensure that the correct version of the .NET SDK is installed on your machine.
 
 ## 👨‍💻 Author
 
-**Mohamed Alkahlawy**  
-Flutter Mobile Developer & Backend Developer .NET.
+**Eslam Adel**  
+ Backend Developer .NET.
